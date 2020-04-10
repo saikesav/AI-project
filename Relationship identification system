@@ -24,7 +24,7 @@ def split_line(text,list2):
 
 
 print(color.Bold+"---------------------------------Welcome to Relation Predicting Program------------------------------"+color.End+"\n\n")
-print(color.Bold+"-----------------------------------------------------------------------------Created by:"+color.End,color.Darkcyan+color.Bold+" YADAV RUPESHKUMAR"+color.End,"\n\n")
+print(color.Bold+"-----------------------------------------------------------------------------Created by:"+color.End,color.Darkcyan+color.Bold+""+color.End,"\n\n")
 print("---------------------------------------------------------------------------------------------------------------------")
 
 print(color.Red+"1)JOHN\n2)WILLIAM\n3)DAVID\n4)ADAM\n5)RAHUL\n6)BEN\n7)NEIL\n8)PETER\n"+color.End)
